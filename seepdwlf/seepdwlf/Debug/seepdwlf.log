@@ -1,0 +1,4 @@
+﻿  seepdwlf.cpp
+c:\users\student\source\repos\seepdwlf\seepdwlf\class_window.h(31): error C2061: syntax error: identifier 'name'
+c:\users\student\source\repos\seepdwlf\seepdwlf\seepdwlf.cpp(9): error C2660: 'Class_Window::setString': function does not take 1 arguments
+  c:\users\student\source\repos\seepdwlf\seepdwlf\class_window.h(31): note: see declaration of 'Class_Window::setString'
